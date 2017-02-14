@@ -4,7 +4,8 @@
       <span class="glyphicon glyphicon-align-justify"></span>&nbsp;&nbsp;&nbsp;&nbsp;Menu
     </a>
     <a href="<?php  echo base_url()?>admin/Admin/college" class="list-group-item">Organizations</a>
-
+    <div class="">
+    </div>
   </div>
 
 </div>
