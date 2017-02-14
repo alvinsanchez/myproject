@@ -1,0 +1,21 @@
+body{
+  background-color: #F5F5F5;
+}
+
+.navbar-default{
+  background: #01579B;
+  color: #FFF;
+}
+
+.navbar-brand{
+  color: #fff;
+}
+
+.dropdown-toggle:active, .open .dropdown-toggle{
+  background:#1976D2 !important; color:#000 !important;
+}
+
+.click:hover{
+  background-color: #ccc;
+  cursor: pointer;
+}
